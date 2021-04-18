@@ -2,7 +2,7 @@ import numpy as np
 import seaborn as sns
 import pandas as pd
 from pandas_profiling import profile_report
-.import sklearn
+import sklearn
 from sklearn import preprocessing
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.model_selection import train_test_split
